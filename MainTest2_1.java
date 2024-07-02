@@ -17,6 +17,7 @@ public class MainTest2_1 {
             for (int[] d: data) {
                 list.add(Arrays.stream(d).boxed().collect(Collectors.toList()));
             }
+            
             Set<Integer> end = new HashSet<>();
             int time = 0;
             while (end.size() < list.size()) {
