@@ -1,9 +1,12 @@
 package programmers;
 
+import java.util.Arrays;
+
 public class DefaultMain {
 
   public String solution() {
     String answer = "";
+
     return answer;
   }
 
