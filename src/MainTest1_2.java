@@ -1,3 +1,5 @@
+package src;
+
 public class MainTest1_2 {
 
   public static void main(String[] args) {

@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package src;
 
 public class MainTest2 {
 
