@@ -32,7 +32,7 @@ public class 프로세스 {
 
   public static void main(String[] args) {
     프로세스 main = new 프로세스();
-    main.solution();
+    main.solution(new int[]{2,1,3,1}, 2);
   }
 
 }
